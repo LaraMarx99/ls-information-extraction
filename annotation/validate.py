@@ -29,7 +29,7 @@ ALLOWED = {
     "homeoffice": {"ja", "teilweise", "nein", "remote", "nicht_genannt"},
     "vertragsart": {"ausbildung", "festanstellung", "praktikum", "werkstudent", "sonstiges"},
     "erfahrungslevel": {"junior", "mid", "senior", "egal", "nicht_genannt"},
-    "gehalt_zeitraum": {"monat", "jahr"},
+    "gehalt_zeitraum": {"monat", "jahr","null"},
 }
 
 CATEGORICAL_FIELDS = ["homeoffice", "vertragsart", "erfahrungslevel"]
