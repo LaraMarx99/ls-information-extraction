@@ -1,0 +1,110 @@
+[
+{
+"id": "15939-BB-633097-7878-9999-S",
+"homeoffice": "teilweise",
+"vertragsart": "festanstellung",
+"erfahrungslevel": "junior",
+"gehalt_min_eur": null,
+"gehalt_zeitraum": null,
+"skills_top3": ["Integrated Logistics Support", "FMECA", "OPUS Suite"]
+},
+{
+"id": "15939-BB-633095-7878-7490-S",
+"homeoffice": "teilweise",
+"vertragsart": "festanstellung",
+"erfahrungslevel": "senior",
+"gehalt_min_eur": null,
+"gehalt_zeitraum": null,
+"skills_top3": ["OPUS Suite", "Python", "Reliability Engineering"]
+},
+{
+"id": "15939-BB-633455-7878-6343-S",
+"homeoffice": "nicht_genannt",
+"vertragsart": "festanstellung",
+"erfahrungslevel": "senior",
+"gehalt_min_eur": null,
+"gehalt_zeitraum": null,
+"skills_top3": ["Lakehouse", "Data-Ingestion-Pipelines", "Data Lineage"]
+},
+{
+"id": "15939-BB-633457-7878-2175-S",
+"homeoffice": "nicht_genannt",
+"vertragsart": "festanstellung",
+"erfahrungslevel": "senior",
+"gehalt_min_eur": null,
+"gehalt_zeitraum": null,
+"skills_top3": ["MLOps", "DevOps", "Model Deployment"]
+},
+{
+"id": "18777-931781141-S",
+"homeoffice": "nicht_genannt",
+"vertragsart": "festanstellung",
+"erfahrungslevel": "nicht_genannt",
+"gehalt_min_eur": null,
+"gehalt_zeitraum": null,
+"skills_top3": ["Siemens Polarion", "IBM Rational DOORS", "Requirements Management"]
+},
+{
+"id": "13999-k53401.30280-S",
+"homeoffice": "teilweise",
+"vertragsart": "festanstellung",
+"erfahrungslevel": "senior",
+"gehalt_min_eur": null,
+"gehalt_zeitraum": null,
+"skills_top3": ["ERP-Systeme", "MS Excel", "Business Intelligence"]
+},
+{
+"id": "15939-BB-632493-7878-9058-S",
+"homeoffice": "nicht_genannt",
+"vertragsart": "praktikum",
+"erfahrungslevel": "junior",
+"gehalt_min_eur": null,
+"gehalt_zeitraum": null,
+"skills_top3": ["PowerPoint", "Excel", "Market Research"]
+},
+{
+"id": "13635-7fbe73ac_JB5131141-S",
+"homeoffice": "remote",
+"vertragsart": "festanstellung",
+"erfahrungslevel": "junior",
+"gehalt_min_eur": null,
+"gehalt_zeitraum": null,
+"skills_top3": ["Machine Learning", "Python", "Linux"]
+},
+{
+"id": "20536-lutif851vc-S",
+"homeoffice": "teilweise",
+"vertragsart": "sonstiges",
+"erfahrungslevel": "junior",
+"gehalt_min_eur": null,
+"gehalt_zeitraum": null,
+"skills_top3": ["Machine Learning", "Artificial Intelligence", "Datenanalyse"]
+},
+{
+"id": "12826-SA0136034_JB5125696-S",
+"homeoffice": "nicht_genannt",
+"vertragsart": "festanstellung",
+"erfahrungslevel": "mid",
+"gehalt_min_eur": null,
+"gehalt_zeitraum": null,
+"skills_top3": ["Windows Server", "Linux", "MS Office 365"]
+},
+{
+"id": "13509-00002110865001-S",
+"homeoffice": "ja",
+"vertragsart": "festanstellung",
+"erfahrungslevel": "senior",
+"gehalt_min_eur": null,
+"gehalt_zeitraum": null,
+"skills_top3": ["Java", "DevOps", "CI/CD"]
+},
+{
+"id": "12862-244829-S",
+"homeoffice": "teilweise",
+"vertragsart": "festanstellung",
+"erfahrungslevel": "junior",
+"gehalt_min_eur": 45000,
+"gehalt_zeitraum": "jahr",
+"skills_top3": ["Microsoft-Betriebssysteme", "Ticketsysteme", "ITIL"]
+}
+]
