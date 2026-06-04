@@ -32,7 +32,7 @@ Datengrundlage: Mensch ↔ Frontier auf n = 12 gemeinsamen Anzeigen. Für die ka
 
 **Gehaltsfelder:** κ = 0.000 ist hier irreführend, weil mein Gold 11× `null` ist und es nur einen positiven Fall gibt (`12862`, „Jahresgehalt von 45.000 bis 50.000 Euro"). Ausgerechnet dort lag das Frontier richtig und ich falsch — ich hatte das Gehalt übersehen. κ misst das nicht; deshalb bewerte ich diese Felder über die konkreten Gehaltsnennungen, nicht über κ.
 
-**`skills_top3`** hat mit nur 2/12 exakten Treffern die niedrigste Übereinstimmung. Oft liegen Frontier und ich inhaltlich nah beieinander, wählen aber andere oder anders geschriebene Begriffe. Ohne festes Skill-Vokabular ist das Feld für eine ungeprüfte Übernahme zu instabil.
+**`skills_top3`** hat mit nur 2/12 exakten Treffern die niedrigste Übereinstimmung. Oft liegen Frontier und ich inhaltlich nah beieinander, wählen aber andere oder anders geschriebene Begriffe. Hinzu kommt: Beide exakten Skills-Treffer stammen aus den drei Few-Shot-Beispielen (`13509`, `13635`), bei denen das Frontier meine Sollwerte ohnehin gesehen hat; außerhalb der Few-Shot-Beispiele ist die exakte Skills-Übereinstimmung also noch etwas niedriger. Ohne festes Skill-Vokabular ist das Feld für eine ungeprüfte Übernahme zu instabil.
 
 ## 3. Schwellwert-Logik
 
